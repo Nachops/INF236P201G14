@@ -4,7 +4,7 @@
 
 Este es el repositorio del *Grupo X*, cuyos integrantes son:
 
-* Integrante 1 - Rol
+* José Joaquín Del Campo Camps - 202011569-9
 * Integrante 2 - Rol
 * Integrante 3 - Rol
 * **Tutor**: Nombre Tutor
