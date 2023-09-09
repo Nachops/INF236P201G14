@@ -13,7 +13,7 @@ Este es el repositorio del *Grupo X*, cuyos integrantes son:
 
 > Obtener enlace desde el home de la wiki del repo.
 
-Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/)
+Puede acceder a la Wiki mediante el siguiente [enlace]([https://gitlab.inf.utfsm.cl/](https://gitlab.inf.utfsm.cl/jose.delcampo/proyecto-analisis-de-software/-/wikis/Proyecto-software-de-toma-de-horas))
 
 ## Videos
 
