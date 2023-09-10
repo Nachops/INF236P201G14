@@ -1,6 +1,6 @@
 > Notar que **X** corresponde al número del grupo asignado.
 
-# Grupo x
+# Grupo 14
 
 Este es el repositorio del *Grupo X*, cuyos integrantes son:
 
