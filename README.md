@@ -9,17 +9,14 @@ Este es el repositorio del *Grupo 14*, cuyos integrantes son:
 
 ## Wiki
 
-> Obtener enlace desde el home de la wiki del repo.
-
 Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/jose.delcampo/proyecto-analisis-de-software/-/wikis/Proyecto-software-de-toma-de-horas)
 
 ## Videos
 
 > Reemplazar con los enlaces correspondientes
 
-* [Video presentación cliente](https://www.youtube.com)
-* [Video presentación avance 1](https://www.youtube.com/)
-* Etc ...
+* [Video presentación cliente](https://www.youtube.com) aquí nose que video de cliente hablan
+* [Video presentación avance 1](https://youtu.be/BfPV3qg5CJ0)
 
 ## Aspectos técnicos relevantes
 
