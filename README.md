@@ -2,9 +2,9 @@
 
 Este es el repositorio del *Grupo 14*, cuyos integrantes son:
 
-* José Joaquín Del Campo Camps - 202011569-9
-* Integrante 2 - Rol
-* Integrante 3 - Rol
+* José Del Campo - 202011569-9
+* Sophia Escobar - 202073563-8
+* Antonio Rey - 202173633-6
 * **Tutor**: Ignacio Muñoz Martinez
 
 ## Wiki
