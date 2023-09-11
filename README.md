@@ -5,7 +5,7 @@ Este es el repositorio del *Grupo 14*, cuyos integrantes son:
 * José Joaquín Del Campo Camps - 202011569-9
 * Integrante 2 - Rol
 * Integrante 3 - Rol
-* **Tutor**: Nombre Tutor
+* **Tutor**: Igancio Muñoz Martinez
 
 ## Wiki
 
