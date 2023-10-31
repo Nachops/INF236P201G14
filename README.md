@@ -14,6 +14,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.
 ## Videos
 
 * [Video presentación avance 1](https://youtu.be/BfPV3qg5CJ0)
+* [Video explicación entrega 4](https://youtu.be/Iz90Fn5expw)
 
 ## Aspectos técnicos relevantes
 
