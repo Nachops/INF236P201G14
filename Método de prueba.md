@@ -1,0 +1,1 @@
+Esto se podría testear registrando y accediendo a cuentas autorizadas para ver y para modificar los horarios, navegando a través de la interfaz de usuario, reservando, modificando y cancelando horarios en el calendario y viendo si se muestran para otros usuarios, y probando que los usuarios no autorizados para realizar cambios al horario efectivamente estén restringidos.
