@@ -1,9 +1,3 @@
-Integrantes:
-- José Del Campo - 202011569-9
-- Sophia Escobar - 202073563-8
-- Antonio Rey - 202173633-6
-
-
 Objetivo:
 - Digitalizar el sistema de reserva de horas para exámenes, de tal forma que los errores que se cometen por ocupar el método manual sean mitigados, además de proporcionar un sistema más eficiente y de mayor acceso.
 
