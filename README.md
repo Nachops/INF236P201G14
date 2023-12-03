@@ -19,4 +19,4 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.
 
 ## Aspectos técnicos relevantes
 
-_Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado_
+* [Link de acceso al proyecto final](https://drive.google.com/file/d/1kL2frnBqTy-c1BkpePZZ8rKZY-3NtaG4/view?usp=sharing)
