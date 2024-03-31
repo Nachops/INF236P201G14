@@ -1,11 +1,11 @@
-# Grupo 14
+# Grupo 21
 
-Este es el repositorio del *Grupo 14*, cuyos integrantes son:
+Este es el repositorio del *Grupo 21*, cuyos integrantes son:
 
 * José Del Campo - 202011569-9
 * Sophia Escobar - 202073563-8
 * Antonio Rey - 202173633-6
-* **Tutor**: Ignacio Muñoz Martinez
+* Jesus Escanilla -
 
 ## Wiki
 
