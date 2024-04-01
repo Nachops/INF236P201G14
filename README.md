@@ -9,7 +9,7 @@ Este es el repositorio del *Grupo 21*, cuyos integrantes son:
 
 ## Wiki
 
-Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/jose.delcampo/proyecto-analisis-de-software/-/wikis/Proyecto-software-de-toma-de-horas)
+Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Nachops/INF236P201G14/wiki)
 
 ## Videos
 
